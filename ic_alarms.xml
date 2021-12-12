@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp"
+android:height="24dp"
+android:viewportWidth="24"
+android:viewportHeight="24">
+<path  android:fillColor="#ffffffff"
+android:pathData="M0,0L0,0L0,0L0,0z"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.2"
+android:pathData="M12,11.22m-8,0a8,8,0,1,1,16,0a8,8,0,1,1,-16,0"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.2"
+android:pathData="M12,11.22m-5,0a5,5,0,1,1,10,0a5,5,0,1,1,-10,0"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.5"
+android:pathData="M11.5,9.73L11.5,11.73L12.5,12.73"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.2"
+android:pathData="M19.67,7.71Q21.48,5.52,19.6,3.61Q17.71,1.7,15.16,3.59"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.2"
+android:pathData="M4.56,7.99Q2.53,5.41,4.3,3.54Q6.06,1.67,8.89,3.59"/>
+<path android:strokeLineCap="round"  android:strokeColor="#ff000000"  android:fillColor="#00000000" android:strokeLineJoin="round"  android:strokeWidth="2.2"
+android:pathData="M9,21.06L15,21.06"/>
+<path  android:fillColor="#ff000000"
+android:pathData="M17.54,21.18m-1,0a1,1,0,1,1,2,0a1,1,0,1,1,-2,0"/>
+<path  android:fillColor="#ff000000"
+android:pathData="M6.44,21.18m-1,0a1,1,0,1,1,2,0a1,1,0,1,1,-2,0"/>
+<path android:fillAlpha="0.4"  android:fillColor="#ff000000"
+android:pathData="M12,16L12,19L14,19L18,16L20,13L20,10L18,6L16,4L13,3L12,2L12,6L16,8L17,10L17,13L15,16L12,16Z"/>
+<path android:fillAlpha="0.4"  android:fillColor="#ff000000"
+android:pathData="M12,16L12,19L9,18L6,16L4,13L4,9L6,5L10,4L12,3L12,7L9,8L7,10L7,12L8,14L12,16Z"/>
+</vector>
